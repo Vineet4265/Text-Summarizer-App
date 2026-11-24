@@ -90,5 +90,8 @@ Interactive API docs are available at http://127.0.0.1:8000/docs.
 - Add support for longer documents and summary length options
 
 ## Author
+Vineet Kumar
 
-**Vineet Kumar**
+GitHub: https://github.com/Vineet4265
+
+LinkedIn: https://www.linkedin.com/in/vineet-kumar-b08a90239/
